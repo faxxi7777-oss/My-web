@@ -1,1 +1,0 @@
-web: gunicorn webb:app
